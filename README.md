@@ -1,0 +1,1 @@
+# WooCommerce-show-prices-only-to-logged-in-users

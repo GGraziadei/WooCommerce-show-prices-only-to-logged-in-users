@@ -2,5 +2,10 @@
 
 ## Installation
 - Add this code to functions.php <br>
-For B2B user:
-- WooCommerce/Settings/Account and Privacy 
+For B2B usage:
+- WooCommerce/Settings/Accounts and Privacy <br>
+Disable: 
+- Allow customers to place orders without an account
+- Allow customers to create an account during checkout
+- Allow customers to create an account on the "My account" page
+
